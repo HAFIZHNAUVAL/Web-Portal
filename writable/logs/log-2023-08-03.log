@@ -1,0 +1,184 @@
+INFO - 2023-08-03 15:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 15:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 15:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 15:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 16:40:32 --> Undefined variable $data
+in APPPATH\Controllers\User.php on line 178.
+ 1 APPPATH\Controllers\User.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Controllers\\User.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 16:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 16:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:10:47 --> Undefined variable $validation
+in APPPATH\Views\pages\user\aduan\image.php on line 29.
+ 1 APPPATH\Views\pages\user\aduan\image.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 29)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:11:23 --> Call to undefined function form_open_multipart()
+in APPPATH\Views\pages\user\aduan\image.php on line 29.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 4 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:16:32 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:18:51 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:19:26 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:19:29 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:19:35 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:22:28 --> Undefined variable $aduan
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aduan', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:22:31 --> Undefined variable $aduan
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aduan', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:23:07 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:23:49 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 285.
+ 1 APPPATH\Views\pages\user\aduan\image.php(285): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 285)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-03 17:25:03 --> Undefined variable $gambar
+in APPPATH\Views\pages\user\aduan\image.php on line 291.
+ 1 APPPATH\Views\pages\user\aduan\image.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php', 291)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\user\\aduan\\image.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/user/aduan/image', [], true)
+ 5 APPPATH\Controllers\User.php(149): view('pages/user/aduan/image', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\User->show_image()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-08-03 17:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-03 17:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1696436724;_ci_previous_url|s:42:"http://localhost:8080/Admin/6/edit_layanan";id|s:2:"31";username|s:9:"AdminDesa";role|s:1:"1";email|s:27:"hafizhnaufaleka27@gmail.com";logged_in|b:1;error|s:261:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>File Extension Harus Berupa jpg, jpeg, gif, png, pdf</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:16:{s:10:"gambarlama";s:7:"aku.jpg";s:14:"csrf_test_name";s:32:"306e653b610563823e1dfe6d45189548";s:4:"nama";s:3:"Hae";s:6:"gender";s:9:"Laki-Laki";s:12:"tempat_lahir";s:5:"Tegal";s:13:"tanggal_lahir";s:10:"2023-08-19";s:6:"negara";s:9:"Indonesia";s:5:"agama";s:5:"Islam";s:6:"status";s:1:"1";s:17:"status_perkawinan";s:5:"Kawin";s:3:"nik";s:16:"3329170305010010";s:9:"pekerjaan";s:10:"Wiraswasta";s:6:"alamat";s:8:"Cikeusal";s:15:"jenis_pengajuan";s:22:"Surat Pengajuan Dishub";s:9:"tanggapan";s:21:"Menunggu ttd pak kuwu";s:6:"submit";s:0:"";}}_ci_validation_errors|a:1:{s:6:"berkas";s:52:"File Extension Harus Berupa jpg, jpeg, gif, png, pdf";}

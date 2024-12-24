@@ -1,0 +1,215 @@
+INFO - 2023-07-26 13:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-26 13:42:03 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:43:02 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:44:01 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate()
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:47:07 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(147): App\Models\AduanModel->getUpdate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:48:23 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(158): App\Models\AduanModel->getUpdate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:49:04 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(158): App\Models\AduanModel->getUpdate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:55:07 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate()
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:56:23 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 13:56:55 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:07:06 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 34.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:15:11 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(161): App\Models\AduanModel->getUpdate('13')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:17:16 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(158): App\Models\AduanModel->getUpdate([...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:18:38 --> Call to undefined method App\Models\AduanModel::getUpdate
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Admin.php(147): CodeIgniter\Model->__call('getUpdate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:19:20 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(742): CodeIgniter\BaseModel->transformDataToArray(null, 'insert')
+ 3 SYSTEMPATH\Model.php(734): CodeIgniter\BaseModel->insert(null, true)
+ 4 APPPATH\Controllers\Admin.php(147): CodeIgniter\Model->insert(null)
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('13')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-26 14:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-26 14:23:08 --> Call to a member function getPost() on null
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(147): App\Models\AduanModel->getUpdate(null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('19')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:24:05 --> Call to a member function getVar() on null
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(147): App\Models\AduanModel->getUpdate(null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('19')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-26 14:25:48 --> Undefined array key "id"
+in APPPATH\Models\AduanModel.php on line 35.
+ 1 APPPATH\Models\AduanModel.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Models\\AduanModel.php', 35)
+ 2 APPPATH\Controllers\Admin.php(147): App\Models\AduanModel->getUpdate(null)
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->update_aduan('19')
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-26 14:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 14:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-26 16:27:09 --> Undefined variable $k
+in APPPATH\Views\pages\admin\edit_layanan.php on line 198.
+ 1 APPPATH\Views\pages\admin\edit_layanan.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_layanan.php', 198)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_layanan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_layanan', [], true)
+ 5 APPPATH\Controllers\Admin.php(138): view('pages/admin/edit_layanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_layanan('1')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-26 16:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-26 16:41:53 --> Undefined variable $user_data
+in APPPATH\Views\pages\admin\pengajuan.php on line 244.
+ 1 APPPATH\Views\pages\admin\pengajuan.php(244): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_data', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php', 244)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/pengajuan', [], true)
+ 5 APPPATH\Controllers\Admin.php(44): view('pages/admin/pengajuan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->response_layanan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-26 16:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-26 16:42:04 --> Undefined variable $user_data
+in APPPATH\Views\pages\admin\pengajuan.php on line 244.
+ 1 APPPATH\Views\pages\admin\pengajuan.php(244): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_data', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php', 244)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/pengajuan', [], true)
+ 5 APPPATH\Controllers\Admin.php(44): view('pages/admin/pengajuan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->response_layanan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-26 16:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-26 16:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

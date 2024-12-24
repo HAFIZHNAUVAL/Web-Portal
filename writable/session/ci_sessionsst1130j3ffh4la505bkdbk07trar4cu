@@ -1,0 +1,11 @@
+__ci_last_regenerate|i:1695400872;_ci_previous_url|s:43:"http://localhost:8080/Admin/14/edit_profile";id|s:2:"14";username|s:10:"SekdesDesa";role|s:1:"1";email|s:23:"Bandungsari27@gmail.com";logged_in|b:1;error|s:324:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Jenis Kelaminan Tidak boleh kosong</li>
+					<li>Nama Tidak boleh kosong</li>
+					<li>Harus Ada File yang diupload</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:8:{s:14:"csrf_test_name";s:32:"f82fe7d2a3d9e6c169729c93d43d7e55";s:3:"nik";s:16:"3329180305010200";s:6:"gender";s:0:"";s:6:"negara";s:12:"Dewi Casmita";s:6:"alamat";s:41:" Komplek Perumahan Griya Ayu Banjarnegara";s:12:"tempat_lahir";s:6:"Brebes";s:13:"tanggal_lahir";s:10:"2023-08-31";s:6:"submit";s:0:"";}}_ci_validation_errors|a:3:{s:6:"gender";s:34:"Jenis Kelaminan Tidak boleh kosong";s:4:"nama";s:23:"Nama Tidak boleh kosong";s:5:"image";s:28:"Harus Ada File yang diupload";}

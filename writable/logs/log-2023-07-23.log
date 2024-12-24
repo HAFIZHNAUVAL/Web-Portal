@@ -1,0 +1,420 @@
+CRITICAL - 2023-07-23 01:57:41 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 01:58:04 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 01:58:08 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:00:33 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:01:42 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:01:58 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:02:09 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 246.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(246): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 246)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:31:07 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 243.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 243)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 02:46:19 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 243.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 243)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 04:15:51 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\show_aduan.php on line 244.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(244): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 244)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 06:57:06 --> Undefined variable $delete
+in APPPATH\Views\pages\admin\show_aduan.php on line 241.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $delete', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 241)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 06:57:32 --> Undefined variable $delete
+in APPPATH\Views\pages\admin\show_aduan.php on line 241.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $delete', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 241)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 06:57:34 --> Undefined variable $delete
+in APPPATH\Views\pages\admin\show_aduan.php on line 241.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $delete', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 241)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 06:57:38 --> Undefined variable $delete
+in APPPATH\Views\pages\admin\show_aduan.php on line 241.
+ 1 APPPATH\Views\pages\admin\show_aduan.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $delete', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php', 241)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\show_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/show_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(67): view('pages/admin/show_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 09:34:12 --> Too few arguments to function App\Controllers\Admin::edit_aduan(), 0 passed in C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 09:34:52 --> Too few arguments to function App\Controllers\Admin::edit_aduan(), 0 passed in C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 09:34:56 --> Too few arguments to function App\Controllers\Admin::edit_aduan(), 0 passed in C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php on line 932 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+ERROR - 2023-07-23 14:51:00 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ci4_admin\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\ci4_admin\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'project_skripsi', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4_admin\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4_admin\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4_admin\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4_admin\system\Model.php(245): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4_admin\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4_admin\app\Controllers\Admin.php(59): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+#8 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4_admin\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4_admin\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ci4_admin\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\ci4_admin\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4_admin\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4_admin\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4_admin\system\Model.php(245): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4_admin\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\ci4_admin\app\Controllers\Admin.php(59): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+#7 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4_admin\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4_admin\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4_admin\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-07-23 14:51:00 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `aduan`', [], false)
+ 3 SYSTEMPATH\Model.php(245): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(59): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->aduan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 14:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 14:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 14:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 15:49:38 --> Undefined variable $k
+in APPPATH\Views\pages\admin\pengajuan.php on line 242.
+ 1 APPPATH\Views\pages\admin\pengajuan.php(242): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php', 242)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/pengajuan', [], true)
+ 5 APPPATH\Controllers\Admin.php(45): view('pages/admin/pengajuan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->response_layanan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 15:49:52 --> Undefined variable $k
+in APPPATH\Views\pages\admin\pengajuan.php on line 242.
+ 1 APPPATH\Views\pages\admin\pengajuan.php(242): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php', 242)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\pengajuan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/pengajuan', [], true)
+ 5 APPPATH\Controllers\Admin.php(45): view('pages/admin/pengajuan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->response_layanan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 15:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 15:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 16:13:15 --> Call to undefined method App\Models\AduanModel::getAduan
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Admin.php(122): CodeIgniter\Model->__call('getAduan', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 16:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 16:20:00 --> Call to undefined method App\Models\AduanModel::getAduan
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Admin.php(122): CodeIgniter\Model->__call('getAduan', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 16:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 16:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 16:32:27 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 208.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 17:07:18 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 208.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 17:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 17:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 17:07:22 --> Undefined array key "id"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 208.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 17:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 17:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 17:07:36 --> Undefined array key "judul"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 220.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 17:08:39 --> Undefined array key "judul"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 220.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+CRITICAL - 2023-07-23 17:08:48 --> Undefined array key "judul"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 220.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 17:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 17:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 17:08:51 --> Undefined array key "judul"
+in APPPATH\Views\pages\admin\edit_aduan.php on line 220.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 17:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 17:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-23 17:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-23 17:13:14 --> Undefined variable $date
+in APPPATH\Views\pages\admin\edit_aduan.php on line 220.
+ 1 APPPATH\Views\pages\admin\edit_aduan.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $date', 'C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ci4_admin\\app\\Views\\pages\\admin\\edit_aduan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pages/admin/edit_aduan', [], true)
+ 5 APPPATH\Controllers\Admin.php(126): view('pages/admin/edit_aduan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Admin->edit_aduan('11')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_admin\\public\\index.php')
+INFO - 2023-07-23 17:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

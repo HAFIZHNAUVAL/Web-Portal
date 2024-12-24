@@ -1,0 +1,15 @@
+__ci_last_regenerate|i:1693939603;_ci_previous_url|s:39:"http://localhost:8080/User/create_aduan";id|s:2:"19";username|s:7:"Talenta";role|s:1:"0";email|s:23:"TalentaDewa23@gmail.com";logged_in|b:1;error|s:491:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Isi Keluhan Tidak boleh kosong</li>
+					<li>nama Tidak boleh kosong</li>
+					<li>Judul Keluhan Tidak boleh kosong</li>
+					<li>Nik Tidak boleh kosong</li>
+					<li>Alamat Tidak boleh kosong</li>
+					<li>Jenis Keluhan Tidak boleh kosong</li>
+					<li>Harus Ada File yang diupload</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:7:{s:14:"csrf_test_name";s:32:"9ce4e7760a9faab6fff1959556a09abc";s:5:"judul";s:0:"";s:3:"nik";s:0:"";s:8:"kategori";s:0:"";s:4:"nama";s:0:"";s:4:"body";s:0:"";s:6:"submit";s:0:"";}}_ci_validation_errors|a:7:{s:4:"body";s:30:"Isi Keluhan Tidak boleh kosong";s:4:"nama";s:23:"nama Tidak boleh kosong";s:5:"judul";s:32:"Judul Keluhan Tidak boleh kosong";s:3:"nik";s:22:"Nik Tidak boleh kosong";s:6:"alamat";s:25:"Alamat Tidak boleh kosong";s:8:"kategori";s:32:"Jenis Keluhan Tidak boleh kosong";s:5:"image";s:28:"Harus Ada File yang diupload";}
